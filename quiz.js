@@ -557,17 +557,17 @@ var questions = [
     ]
   },
   {
-    question: "Patents should not exist.",
+    question: "Patents enforced by the state should not exist.",
     answer: 0,
     valuesYes: [
       {
-        axis: "p0",
+        axis: "p1",
         value: 3
       }
     ],
     valuesNo: [
       {
-        axis: "p1",
+        axis: "p0",
         value: 3
       }
     ]
